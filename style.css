@@ -1,0 +1,43 @@
+.heading {
+    font-family: 'Oswald', sans-serif;
+    font-size: 25px !important;
+    width: 100%;
+    margin: 0px;
+}
+
+body{
+    background-size: cover;
+    background-position: center;
+}
+
+canvas{
+    border: 3px solid black;
+    border-radius: 20px;
+    box-shadow: 5px 5px 5px white;
+    margin-top: 160px;
+}
+
+#number_of_objects, #status, .start_button{
+    font-family: 'Oswald', sans-serif;
+    font-size: 18px !important;
+}
+
+#heading_para{
+    color: black;
+    font-size: 20px;
+}
+
+#object_name{
+    width: 30%;
+    margin-bottom: 0px !important;
+}
+
+.object_name{
+    font-size: 25px !important;
+    color: blanchedalmond;
+    font-family: 'Oswald', sans-serif;
+}
+
+#status{
+    margin-top: 5px;
+}
